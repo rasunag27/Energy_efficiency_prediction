@@ -1,5 +1,8 @@
 # Energy_efficiency_prediction
 
+
+![alt text](https://github.com/rasunag27/Energy_efficiency_prediction/blob/main/energy_efficiency.jpeg?raw=true)
+
 ## Objective
 
 To predict the heating load and cooling load of the building. The buildings differ with respect to the glazing area, the glazing area distribution, and the orientation, amongst other parameters. 
